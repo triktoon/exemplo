@@ -1,0 +1,3 @@
+!{personagem 1}[yellow;black];
+!{personagem 2}[orange;black];
+!{personagem 3}[cyan;black];

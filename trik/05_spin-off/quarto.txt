@@ -1,0 +1,26 @@
+!{local 1}[gray;black];
+!{personagem 1}[brown;purple];
+
+<{local 1}'descrição do local'[;green];
+    {personagem 1}'uma fala'[pink];
+    (e){personagem 2}'outra fala';
+    (d){personagem 3}'mais outra fala';
+>;
+
+<{local 2}'descrição do local';
+    (d){personagem 3}'outra fala';
+    {personagem 1}'mais uma fala';
+    (e){personagem 2}'outra fala';
+>;
+
+<{local 3}'descrição do local';
+    (e){personagem 2}'uma fala';
+    {personagem 1}'uma outra fala';
+    (d){personagem 3}'mais outra fala';
+>;
+
+<{local 1}'descrição do local';
+    (e){personagem 2}'uma fala';
+    {personagem 1}'uma outra fala';
+    (d){personagem 3}'mais outra fala';
+>;

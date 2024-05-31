@@ -1,0 +1,3 @@
+!{local 1}[red;white];
+!{local 2}[blue;white];
+!{local 3}[purple;white];
