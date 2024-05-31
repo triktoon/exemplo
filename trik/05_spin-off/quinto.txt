@@ -24,4 +24,3 @@
     {personagem 1}'uma outra fala';
     (d){personagem 3}'mais outra fala';
 >;
-
